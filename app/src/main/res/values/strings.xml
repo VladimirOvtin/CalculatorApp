@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Calculator App</string>
-    <string name="divide_zero">Cannot divide by ZERO</string>
+    <string name="divide_zero">Cannot divide by ZERO!</string>
     <string name="null_data">You forgot to field all fields</string>
     <string name="wrong_format">Check your input data for correctness</string>
     <string name="wrong_operation">Check your operation, possible: +, -, *, /</string>
